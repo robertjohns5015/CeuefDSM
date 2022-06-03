@@ -4,7 +4,6 @@ title: "[FR]: "
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
   - type: checkboxes
     attributes:
       label: Is there an existing issue for this?
